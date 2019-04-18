@@ -1,1 +1,1 @@
-yaysql is a custom module that is  required to run "SQLGUI.py"
+yaysql and  EzOs are custom modules that are  required to run "SQLGUI.py"
